@@ -32,6 +32,7 @@ import socket from "./utils/socket";
 
 import Home from "./pages/Home";
 import Dashboard_freelancer from "./pages/freelancer/Dashboard_freelancer";
+// import Dashboard_client from "./pages/Client_user/Dashboard_client";
 import Dashboard_client from "./pages/Client_user/Dashboard_client";
 import Freelancer_profile from "./pages/freelancer/freelancer_profile";
 import GigDetail from "./pages/gigs/GigDetail";
